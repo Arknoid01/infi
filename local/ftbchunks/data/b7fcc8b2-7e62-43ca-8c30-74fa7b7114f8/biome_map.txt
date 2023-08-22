@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#104 minecraft:modified_gravelly_mountains
+#379 minecraft:mountains
+#5FF minecraft:river
+#406 minecraft:stone_shore
+#169 minecraft:taiga
+#452 minecraft:wooded_hills

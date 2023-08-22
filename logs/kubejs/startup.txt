@@ -1,0 +1,5 @@
+[20:53:20] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[20:53:20] [INFO ] Loaded script startup_scripts:script.js in 0.306 s
+[20:53:20] [INFO ] Using UnifyTags v1.17
+[20:53:20] [INFO ] Loaded script startup_scripts:unify.js in 0.018 s
+[20:53:20] [INFO ] Loaded 2/2 KubeJS startup scripts in 1.585 s
