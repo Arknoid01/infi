@@ -1,0 +1,124 @@
+{
+	tabs: [{
+		title: "Shop"
+		icon: "decimal_coins:coin_100"
+		entries: [
+			{
+				item: "minecraft:cobblestone"
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:oak_log", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:gold_ore", Count: 10b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:iron_ore", Count: 15b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:coal_ore", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:lapis_ore", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:redstone_ore", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:diamond_ore", Count: 6b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:emerald_ore", Count: 8b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:nether_quartz_ore", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "mekanism:ingot_steel", Count: 10b }
+				buy: 1L
+			}
+			{
+				item: { id: "immersivepetroleum:petcoke", Count: 15b }
+				buy: 1L
+			}
+			{
+				item: { id: "immersiveengineering:coal_coke", Count: 15b }
+				buy: 1L
+			}
+			{
+				item: { id: "thermal:coal_coke", Count: 15b }
+				buy: 1L
+			}
+			{
+				item: { id: "powah:steel_energized", Count: 10b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:blaze_rod", Count: 10b }
+				buy: 1L
+			}
+			{
+				item: { id: "powah:crystal_blazing", Count: 8b }
+				buy: 1L
+			}
+			{
+				item: { id: "powah:crystal_niotic", Count: 6b }
+				buy: 1L
+			}
+			{
+				item: { id: "powah:crystal_spirited", Count: 5b }
+				buy: 1L
+			}
+			{
+				item: { id: "powah:crystal_nitro", Count: 4b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:white_wool", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:egg", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "thermal:copper_ingot", Count: 22b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:feather", Count: 32b }
+				buy: 1L
+			}
+			{
+				item: { id: "create:brass_ingot", Count: 15b }
+				buy: 1L
+			}
+			{
+				item: "create:precision_mechanism"
+				buy: 1L
+			}
+			{
+				item: "minecraft:lava_bucket"
+				buy: 1L
+			}
+			{
+				item: { id: "alexsmobs:shrimp_fried_rice", Count: 4b }
+				buy: 1L
+			}
+			{
+				item: { id: "minecraft:golden_apple", Count: 3b }
+				buy: 1L
+			}
+		]
+	}]
+}
