@@ -1,0 +1,429 @@
+{
+	id: "438F3029C036289C"
+	group: ""
+	order_index: 0
+	filename: "progression"
+	title: "Progression"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -6.3d
+			y: -1.7999999999999998d
+			subtitle: "The begining !"
+			description: ["Welcome to this new world, where your goal in this modpack is to create an ancient Greek city and see it through to the end of its history. Good or bad, it's up to you!"]
+			id: "6853CA02F07D65B8"
+			tasks: [{
+				id: "074197B4E5BA90E8"
+				type: "checkmark"
+				title: "Welcome !"
+			}]
+			rewards: [{
+				id: "5F9E70E0849E67C4"
+				type: "item"
+				item: "antiqueatlas:empty_antique_atlas"
+			}]
+		}
+		{
+			x: -6.3d
+			y: -3.5999999999999996d
+			description: ["You have at your disposal a shop where you can find objects that will be very useful for your city. "]
+			dependencies: ["6853CA02F07D65B8"]
+			id: "4054F135316CF835"
+			tasks: [{
+				id: "1728C9405E6585A1"
+				type: "checkmark"
+				title: "Shop"
+			}]
+			rewards: [{
+				id: "6FD2AC0EEC3B8EF0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			title: "The Dream"
+			x: -4.5d
+			y: -1.7999999999999998d
+			subtitle: "The Dream"
+			description: ["I'll help you remember how you got here... It was a dark and stormy night, the rain was falling and while you slept, you heard a god, you seemed to notice a lightning bolt in his hand, he asked you to build a city in his name ... but what god? When you awoke, this world had become reality. So you set about building the city. But beware, you sense other forces at work in this world... Jalius gods, maybe?"]
+			dependencies: ["6853CA02F07D65B8"]
+			id: "1804F3A681D391F9"
+			tasks: [
+				{
+					id: "3C0D561330CEBFA7"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "353C87ACD15F8B12"
+					type: "item"
+					title: "Logs"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:logs"
+						}
+					}
+					count: 32L
+					match_nbt: true
+					weak_nbt_match: true
+				}
+			]
+			rewards: [
+				{
+					id: "191B08DAFC5513E4"
+					type: "item"
+					item: {
+						id: "minecraft:leather_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1DE4CCC5B2D62F79"
+					type: "item"
+					item: {
+						id: "minecraft:leather_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7E737E74A946ED4E"
+					type: "item"
+					item: {
+						id: "minecraft:leather_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1B5C48758DD9723C"
+					type: "item"
+					item: {
+						id: "minecraft:leather_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "420FBCE22AA48BA6"
+					type: "item"
+					item: "minecraft:apple"
+					count: 10
+				}
+				{
+					id: "79C3C7911C75B78C"
+					type: "ftbmoney:money"
+					ftb_money: 1L
+				}
+			]
+		}
+		{
+			title: "The fury !"
+			x: 0.8999999999999999d
+			y: -1.7999999999999998d
+			description: [
+				"It looks like the jealous gods are trying to get rid of you before this city was created... take care!"
+				"During the night, the great ZEUS, the master of Olympus appeared... so it was him in your dream... he asks you once again to build a city in his honor in exchange he will grant you his weapon... thunderbolt as well as eternal glory... but beware because the other gods are jealous of this alliance !"
+				""
+			]
+			dependencies: ["1804F3A681D391F9"]
+			id: "52A480950A56F835"
+			tasks: [
+				{
+					id: "2F68E63CD21EA299"
+					type: "item"
+					item: {
+						id: "minecraft:iron_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6E3590EAF48A6F1E"
+					type: "item"
+					item: {
+						id: "minecraft:iron_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "36A1544DBFDACEE6"
+					type: "item"
+					item: {
+						id: "minecraft:iron_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "51DDCD4B85013FBB"
+					type: "item"
+					item: {
+						id: "minecraft:iron_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5097C5BF0B0DEBB2"
+					type: "item"
+					item: {
+						id: "minecraft:iron_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "69A0810BD1B0190D"
+					type: "command"
+					command: "/summon greekfantasy:fury"
+					player_command: true
+				}
+				{
+					id: "0B58082C4F8EE33B"
+					type: "item"
+					item: {
+						id: "greekfantasy:thunderbolt"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "The Orichalcum"
+			x: 2.6999999999999997d
+			y: -1.7999999999999998d
+			description: [
+				"So you can finally start building this city..."
+				"Zeuz also told you about a rare mineral... Orichalcum... if you find it, you can start building this city... ( between layer 0 and 20 )"
+			]
+			dependencies: ["52A480950A56F835"]
+			id: "79655AF741ECED42"
+			tasks: [{
+				id: "2E878E3D66F09FA4"
+				type: "item"
+				item: "infinity:orichalcumingot"
+				count: 2L
+			}]
+			rewards: [
+				{
+					id: "25F3FD963B67F02C"
+					type: "item"
+					item: "minecolonies:supplychestdeployer"
+				}
+				{
+					id: "34FEC5FDE70E4556"
+					type: "item"
+					item: "minecolonies:supplycampdeployer"
+				}
+			]
+		}
+		{
+			title: "Antique Atlas"
+			x: -6.3d
+			y: 0.0d
+			description: ["You'll need it throughout your adventure!"]
+			dependencies: ["6853CA02F07D65B8"]
+			id: "0CD912E15BADC92E"
+			tasks: [{
+				id: "0FACE6700F91D347"
+				type: "item"
+				item: "antiqueatlas:empty_antique_atlas"
+			}]
+		}
+		{
+			x: 2.6999999999999997d
+			y: -3.5999999999999996d
+			dependencies: ["79655AF741ECED42"]
+			id: "208867BC354EEE2E"
+			tasks: [
+				{
+					id: "5784AB2252EE99B8"
+					type: "item"
+					item: {
+						id: "infinity:oricalcum_legging_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2078ACB64BBBDF86"
+					type: "item"
+					item: {
+						id: "infinity:oricalcum_legging_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0643AE570C4BA1BD"
+					type: "item"
+					item: {
+						id: "infinity:oricalcum_legging_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "09852063ECF000AF"
+					type: "item"
+					item: {
+						id: "infinity:oricalcum_legging_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "086613B282B5DCAA"
+					type: "item"
+					item: {
+						id: "infinity:oricalcumsword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "436F1FE7181D440E"
+					type: "item"
+					item: {
+						id: "infinity:oricalcumaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1C6FF59E76EC5A7C"
+					type: "item"
+					item: {
+						id: "infinity:oricalcumpick"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6AF84A8E09782D1E"
+					type: "item"
+					item: {
+						id: "infinity:oricalcum_showe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7C1747FEA7221EF2"
+					type: "item"
+					item: {
+						id: "infinity:oricalculhoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "19F01843558B9387"
+				type: "ftbmoney:money"
+				ftb_money: 8L
+			}]
+		}
+		{
+			x: -2.6999999999999997d
+			y: -1.7999999999999998d
+			id: "457C5A79F987612A"
+			tasks: [
+				{
+					id: "0BABFC9FA1F31712"
+					type: "item"
+					item: "minecraft:cobblestone"
+					count: 30L
+				}
+				{
+					id: "4CC5FC3FD35097A7"
+					type: "item"
+					item: {
+						id: "minecraft:stone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -0.8999999999999999d
+			y: -1.7999999999999998d
+			id: "46F80F9CA6DE7027"
+			tasks: [
+				{
+					id: "49EE8B6FCEAC5AE5"
+					type: "item"
+					item: "minecraft:iron_ingot"
+					count: 32L
+				}
+				{
+					id: "0A8651BEF83A0EB2"
+					type: "item"
+					item: {
+						id: "minecraft:iron_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+	]
+}
