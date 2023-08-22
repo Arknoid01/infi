@@ -18,11 +18,18 @@
 				type: "checkmark"
 				title: "Welcome !"
 			}]
-			rewards: [{
-				id: "5F9E70E0849E67C4"
-				type: "item"
-				item: "antiqueatlas:empty_antique_atlas"
-			}]
+			rewards: [
+				{
+					id: "5F9E70E0849E67C4"
+					type: "item"
+					item: "antiqueatlas:empty_antique_atlas"
+				}
+				{
+					id: "509729B5D19CA7ED"
+					type: "item"
+					item: "comforts:sleeping_bag_white"
+				}
+			]
 		}
 		{
 			x: -6.3d
@@ -439,6 +446,99 @@
 				id: "37745FA9E3B300B7"
 				type: "checkmark"
 				title: "Bestiary"
+			}]
+		}
+		{
+			title: "Stone Age"
+			x: 4.5d
+			y: -1.7999999999999998d
+			dependencies: ["79655AF741ECED42"]
+			id: "70DC7125FB28BA42"
+			tasks: [{
+				id: "72F4EEAC0F09CE23"
+				type: "item"
+				item: "minecolonies:blockhuttownhall"
+			}]
+			rewards: [
+				{
+					id: "6A6960E57319DA2A"
+					type: "ftbmoney:money"
+					ftb_money: 1L
+				}
+				{
+					id: "560B4C09FA1A175E"
+					type: "item"
+					item: "structurize:sceptergold"
+				}
+			]
+		}
+		{
+			x: 6.3d
+			y: -1.7999999999999998d
+			dependencies: ["70DC7125FB28BA42"]
+			id: "1068BEA411FF0AD6"
+			tasks: [{
+				id: "5CE8BD0E2A6045E2"
+				type: "item"
+				item: "minecolonies:blockhutbuilder"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -1.7999999999999998d
+			dependencies: ["4E9960939E69EC95"]
+			id: "1F2DFE2CC7A5F6A7"
+			tasks: [{
+				id: "5BA11D01D7E3DB4E"
+				type: "item"
+				item: "minecolonies:blockhutcitizen"
+			}]
+		}
+		{
+			x: 8.1d
+			y: -1.7999999999999998d
+			dependencies: ["1068BEA411FF0AD6"]
+			id: "728B0369949F642A"
+			tasks: [{
+				id: "1E931D794B70EE8A"
+				type: "item"
+				item: "minecolonies:blockhuttavern"
+			}]
+		}
+		{
+			x: 9.9d
+			y: -2.6999999999999997d
+			dependencies: ["728B0369949F642A"]
+			id: "71DBB927842CFC87"
+			tasks: [{
+				id: "6655930873AE6BB3"
+				type: "item"
+				item: "minecolonies:blockhutfisherman"
+			}]
+		}
+		{
+			x: 9.9d
+			y: -0.8999999999999999d
+			dependencies: ["728B0369949F642A"]
+			id: "3828C61F5C4E84A9"
+			tasks: [{
+				id: "5F0FEEC61D0946AF"
+				type: "item"
+				item: "minecolonies:blockhutfarmer"
+			}]
+		}
+		{
+			x: 11.7d
+			y: -1.7999999999999998d
+			dependencies: [
+				"71DBB927842CFC87"
+				"3828C61F5C4E84A9"
+			]
+			id: "4E9960939E69EC95"
+			tasks: [{
+				id: "7BBFB4F058574E07"
+				type: "item"
+				item: "minecolonies:blockhutcook"
 			}]
 		}
 	]
