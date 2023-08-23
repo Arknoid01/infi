@@ -8,6 +8,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			title: "Fury !"
 			x: -4.5d
 			y: -0.8999999999999999d
 			dependencies: ["52A480950A56F835"]
@@ -38,6 +39,40 @@
 				id: "39EB0BB60998BB28"
 				type: "item"
 				item: "infinity:rotten_flesh_furry"
+			}]
+		}
+		{
+			title: "Cyclopes !"
+			x: -4.5d
+			y: 0.8999999999999999d
+			dependencies: ["1F2DFE2CC7A5F6A7"]
+			id: "71F8F65C9AADD7C8"
+			tasks: [{
+				id: "0C8796741C5F0852"
+				type: "checkmark"
+				title: "Cyclop"
+			}]
+			rewards: [{
+				id: "4E814F48A90A6761"
+				type: "item"
+				item: "greekfantasy:cyclopes_spawn_egg"
+			}]
+		}
+		{
+			x: -2.6999999999999997d
+			y: 0.8999999999999999d
+			dependencies: ["71F8F65C9AADD7C8"]
+			id: "0CEBFB1D91293070"
+			tasks: [{
+				id: "26E3CF4810316AD5"
+				type: "kill"
+				entity: "greekfantasy:cyclopes"
+				value: 1L
+			}]
+			rewards: [{
+				id: "6FFD8A1FB85BBC32"
+				type: "item"
+				item: "infinity:cyclope_eye"
 			}]
 		}
 	]

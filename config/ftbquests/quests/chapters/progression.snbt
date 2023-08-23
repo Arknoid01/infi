@@ -541,5 +541,57 @@
 				item: "minecolonies:blockhutcook"
 			}]
 		}
+		{
+			title: "Cyclopes Eyes"
+			x: 15.299999999999999d
+			y: -1.7999999999999998d
+			dependencies: ["1F2DFE2CC7A5F6A7"]
+			id: "23127D81A3A587D3"
+			tasks: [{
+				id: "627EB57D65032862"
+				type: "item"
+				item: "infinity:cyclope_eye"
+			}]
+			rewards: [{
+				id: "4EBAC32B11933652"
+				type: "item"
+				item: "infinity:antiquenetherstar"
+			}]
+		}
+		{
+			icon: "create:large_cogwheel"
+			x: 8.1d
+			y: -3.5999999999999996d
+			dependencies: ["728B0369949F642A"]
+			id: "6C6469D45C8F71EF"
+			tasks: [{
+				id: "78C00D32BC96EF7A"
+				type: "checkmark"
+				title: "Create"
+			}]
+			rewards: [{
+				id: "2C15D2A7D1CCF985"
+				type: "item"
+				item: "create:andesite_alloy"
+				count: 6
+			}]
+		}
+		{
+			x: 2.6999999999999997d
+			y: 0.0d
+			description: ["You can drop in the VoidMiner !"]
+			dependencies: ["79655AF741ECED42"]
+			id: "03889C82519493FB"
+			tasks: [{
+				id: "308A61CD46AA7443"
+				type: "checkmark"
+				title: "Orichalcum"
+			}]
+			rewards: [{
+				id: "6639865E03C39EB0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
 	]
 }
