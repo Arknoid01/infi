@@ -10,6 +10,8 @@ console.info('Hello, World! (You will see this line every time server resources 
 onEvent('recipes', event => {
 	// Change recipes here
 event.remove({ output: 'minecolonies:blockhuttownhall' })
+event.remove({ output: 'minecolonies:blockhuttavern' })
+event.remove({ output: 'minecolonies:blockhutcitizen' })
 })
 
 onEvent('item.tags', event => {
