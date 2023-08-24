@@ -219,7 +219,7 @@
 
 	[mob_spawns.fury_spawn]
 		#Range: 0 ~ 1000
-		chance = 0
+		chance = 9
 		whitelist = true
 		biome_types = ["minecraft:nether_wastes"]
 
@@ -315,7 +315,7 @@
 
 	[mob_spawns.cyclopes_spawn]
 		#Range: 0 ~ 1000
-		chance = 0
+		chance = 20
 		whitelist = true
 		biome_types = ["MOUNTAIN", "PLATEAU"]
 
