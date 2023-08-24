@@ -11,7 +11,7 @@
 			title: "Fury !"
 			x: -4.5d
 			y: -0.8999999999999999d
-			dependencies: ["52A480950A56F835"]
+			dependencies: ["2256492953C2A6CE"]
 			id: "14924B820F98F14E"
 			tasks: [{
 				id: "30DCFE0A76BA8221"
@@ -35,11 +35,24 @@
 				entity: "greekfantasy:fury"
 				value: 1L
 			}]
-			rewards: [{
-				id: "39EB0BB60998BB28"
-				type: "item"
-				item: "infinity:rotten_flesh_furry"
-			}]
+			rewards: [
+				{
+					id: "39EB0BB60998BB28"
+					type: "item"
+					item: "infinity:rotten_flesh_furry"
+				}
+				{
+					id: "25811579BF4B7AF0"
+					type: "item"
+					item: {
+						id: "greekfantasy:thunderbolt"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
 			title: "Cyclopes !"
@@ -73,6 +86,40 @@
 				id: "6FFD8A1FB85BBC32"
 				type: "item"
 				item: "infinity:cyclope_eye"
+			}]
+		}
+		{
+			title: "Python !"
+			x: -4.5d
+			y: 2.6999999999999997d
+			dependencies: ["1A3B725AC45B6FE4"]
+			id: "31B0505D39B02B83"
+			tasks: [{
+				id: "377DAB4688B4A9F6"
+				type: "checkmark"
+				title: "Python"
+			}]
+			rewards: [{
+				id: "3C89993EC221D48B"
+				type: "item"
+				item: "greekfantasy:python_spawn_egg"
+			}]
+		}
+		{
+			x: -2.6999999999999997d
+			y: 2.6999999999999997d
+			dependencies: ["31B0505D39B02B83"]
+			id: "019E66E3C9D620E9"
+			tasks: [{
+				id: "47707130CDC41F4A"
+				type: "kill"
+				entity: "greekfantasy:python"
+				value: 1L
+			}]
+			rewards: [{
+				id: "671C1D4B9170E4E2"
+				type: "item"
+				item: "infinity:mini_snake"
 			}]
 		}
 	]

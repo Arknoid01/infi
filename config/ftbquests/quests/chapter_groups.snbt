@@ -1,7 +1,10 @@
 {
 	chapter_groups: [
 		{ id: "3E49660658EEDFBE", title: "Logistics" }
-		{ id: "3C9A822741ACB380", title: "Tecnology" }
-		{ id: "71B4C79B1FEF089A", title: "Magic" }
+		{ id: "33AADEF5CB96D672", title: "Stone Age" }
+		{ id: "59AC618F8DD9378B", title: "Age of Industrialisation" }
+		{ id: "7ADD06C59ECFD2C2", title: "Age of Modernity" }
+		{ id: "1E865D99F51E242F", title: "Age of the futur !" }
+		{ id: "33AB28E36F57A233", title: "To the Infinity !" }
 	]
 }

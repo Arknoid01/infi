@@ -1,7 +1,7 @@
 {
 	id: "03764C5A60975D01"
-	group: "3C9A822741ACB380"
-	order_index: 7
+	group: "59AC618F8DD9378B"
+	order_index: 1
 	filename: "immersieve_enginnering"
 	title: "Immersive Engineering (Quests:59)"
 	icon: "immersiveengineering:ingot_steel"
@@ -11,6 +11,7 @@
 		{
 			x: 1.0d
 			y: -0.5d
+			dependencies: ["653EAC13A943E535"]
 			id: "466F3F1CE1CDE84C"
 			tasks: [{
 				id: "16E39EBDA573A3F3"

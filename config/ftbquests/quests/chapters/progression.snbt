@@ -8,7 +8,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -6.3d
+			x: -11.7d
 			y: -1.7999999999999998d
 			subtitle: "The begining !"
 			description: ["Welcome to this new world, where your goal in this modpack is to create an ancient Greek city and see it through to the end of its history. Good or bad, it's up to you!"]
@@ -32,7 +32,7 @@
 			]
 		}
 		{
-			x: -6.3d
+			x: -11.7d
 			y: -3.5999999999999996d
 			description: ["You have at your disposal a shop where you can find objects that will be very useful for your city. "]
 			dependencies: ["6853CA02F07D65B8"]
@@ -50,7 +50,7 @@
 		}
 		{
 			title: "The Dream"
-			x: -4.5d
+			x: -9.9d
 			y: -1.7999999999999998d
 			subtitle: "The Dream"
 			description: ["I'll help you remember how you got here... It was a dark and stormy night, the rain was falling and while you slept, you heard a god, you seemed to notice a lightning bolt in his hand, he asked you to build a city in his name ... but what god? When you awoke, this world had become reality. So you set about building the city. But beware, you sense other forces at work in this world... Jalius gods, maybe?"]
@@ -143,97 +143,14 @@
 			]
 		}
 		{
-			title: "The fury !"
-			x: 0.8999999999999999d
-			y: -1.7999999999999998d
-			description: [
-				"It looks like the jealous gods are trying to get rid of you before this city was created... take care!"
-				"During the night, the great ZEUS, the master of Olympus appeared... so it was him in your dream... he asks you once again to build a city in his honor in exchange he will grant you his weapon... thunderbolt as well as eternal glory... but beware because the other gods are jealous of this alliance !"
-				""
-			]
-			dependencies: ["46F80F9CA6DE7027"]
-			id: "52A480950A56F835"
-			tasks: [
-				{
-					id: "2F68E63CD21EA299"
-					type: "item"
-					item: {
-						id: "minecraft:iron_sword"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "6E3590EAF48A6F1E"
-					type: "item"
-					item: {
-						id: "minecraft:iron_helmet"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "36A1544DBFDACEE6"
-					type: "item"
-					item: {
-						id: "minecraft:iron_chestplate"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "51DDCD4B85013FBB"
-					type: "item"
-					item: {
-						id: "minecraft:iron_leggings"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "5097C5BF0B0DEBB2"
-					type: "item"
-					item: {
-						id: "minecraft:iron_boots"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-			]
-			rewards: [{
-				id: "0B58082C4F8EE33B"
-				type: "item"
-				item: {
-					id: "greekfantasy:thunderbolt"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
 			title: "The Orichalcum"
-			x: 2.6999999999999997d
+			x: 0.8999999999999999d
 			y: -1.7999999999999998d
 			description: [
 				"So you can finally start building this city..."
 				"Zeuz also told you about a rare mineral... Orichalcum... if you find it, you can start building this city... ( between layer 0 and 20 )"
 			]
-			dependencies: [
-				"52A480950A56F835"
-				"58FC155055AAC194"
-			]
+			dependencies: ["733E7FEBCDCD79DF"]
 			id: "79655AF741ECED42"
 			tasks: [
 				{
@@ -263,7 +180,7 @@
 		}
 		{
 			title: "Antique Atlas"
-			x: -6.3d
+			x: -11.7d
 			y: 0.0d
 			description: ["You'll need it throughout your adventure!"]
 			dependencies: ["6853CA02F07D65B8"]
@@ -275,7 +192,7 @@
 			}]
 		}
 		{
-			x: 2.6999999999999997d
+			x: 0.8999999999999999d
 			y: -3.5999999999999996d
 			dependencies: ["79655AF741ECED42"]
 			id: "208867BC354EEE2E"
@@ -387,7 +304,7 @@
 			}]
 		}
 		{
-			x: -2.6999999999999997d
+			x: -8.1d
 			y: -1.7999999999999998d
 			dependencies: ["1804F3A681D391F9"]
 			id: "457C5A79F987612A"
@@ -412,7 +329,7 @@
 			]
 		}
 		{
-			x: -0.8999999999999999d
+			x: -6.299999999999999d
 			y: -1.7999999999999998d
 			dependencies: ["457C5A79F987612A"]
 			id: "46F80F9CA6DE7027"
@@ -437,20 +354,25 @@
 			]
 		}
 		{
-			x: 0.8999999999999999d
-			y: 0.0d
+			x: -4.5d
+			y: -1.7999999999999998d
 			description: ["Sometimes in this modpack, you'll have to kill monsters to advance. These monsters will give you items to advance in the quests. You'll find these monsters in the mythological bestiary quest chapter."]
-			dependencies: ["52A480950A56F835"]
+			dependencies: ["46F80F9CA6DE7027"]
 			id: "58FC155055AAC194"
 			tasks: [{
 				id: "37745FA9E3B300B7"
 				type: "checkmark"
 				title: "Bestiary"
 			}]
+			rewards: [{
+				id: "4DF1DE8E7F6A92E6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
 		}
 		{
 			title: "Stone Age"
-			x: 4.5d
+			x: 2.7d
 			y: -1.7999999999999998d
 			dependencies: ["79655AF741ECED42"]
 			id: "70DC7125FB28BA42"
@@ -473,7 +395,7 @@
 			]
 		}
 		{
-			x: 6.3d
+			x: 4.5d
 			y: -1.7999999999999998d
 			dependencies: ["70DC7125FB28BA42"]
 			id: "1068BEA411FF0AD6"
@@ -484,7 +406,7 @@
 			}]
 		}
 		{
-			x: 13.5d
+			x: 11.7d
 			y: -1.7999999999999998d
 			dependencies: ["4E9960939E69EC95"]
 			id: "1F2DFE2CC7A5F6A7"
@@ -495,7 +417,7 @@
 			}]
 		}
 		{
-			x: 8.1d
+			x: 6.299999999999999d
 			y: -1.7999999999999998d
 			dependencies: ["1068BEA411FF0AD6"]
 			id: "728B0369949F642A"
@@ -506,7 +428,7 @@
 			}]
 		}
 		{
-			x: 9.9d
+			x: 8.1d
 			y: -2.6999999999999997d
 			dependencies: ["728B0369949F642A"]
 			id: "71DBB927842CFC87"
@@ -517,7 +439,7 @@
 			}]
 		}
 		{
-			x: 9.9d
+			x: 8.1d
 			y: -0.8999999999999999d
 			dependencies: ["728B0369949F642A"]
 			id: "3828C61F5C4E84A9"
@@ -528,7 +450,7 @@
 			}]
 		}
 		{
-			x: 11.7d
+			x: 9.899999999999999d
 			y: -1.7999999999999998d
 			dependencies: [
 				"71DBB927842CFC87"
@@ -543,9 +465,12 @@
 		}
 		{
 			title: "Cyclopes Eyes"
-			x: 15.299999999999999d
+			x: 13.499999999999998d
 			y: -1.7999999999999998d
-			dependencies: ["1F2DFE2CC7A5F6A7"]
+			dependencies: [
+				"1F2DFE2CC7A5F6A7"
+				"0CEBFB1D91293070"
+			]
 			id: "23127D81A3A587D3"
 			tasks: [{
 				id: "627EB57D65032862"
@@ -553,14 +478,14 @@
 				item: "infinity:cyclope_eye"
 			}]
 			rewards: [{
-				id: "4EBAC32B11933652"
-				type: "item"
-				item: "infinity:antiquenetherstar"
+				id: "31DA03C0D5399EEC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
 			icon: "create:large_cogwheel"
-			x: 8.1d
+			x: 6.299999999999999d
 			y: -3.5999999999999996d
 			dependencies: ["728B0369949F642A"]
 			id: "6C6469D45C8F71EF"
@@ -577,7 +502,7 @@
 			}]
 		}
 		{
-			x: 2.6999999999999997d
+			x: 0.8999999999999999d
 			y: 0.0d
 			description: ["You can drop in the VoidMiner !"]
 			dependencies: ["79655AF741ECED42"]
@@ -591,6 +516,228 @@
 				id: "6639865E03C39EB0"
 				type: "ftbmoney:money"
 				ftb_money: 1L
+			}]
+		}
+		{
+			title: "First Storage"
+			x: 13.5d
+			y: -3.5999999999999996d
+			dependencies: ["23127D81A3A587D3"]
+			id: "49996741B79E3CA4"
+			tasks: [
+				{
+					id: "1B471ABF658F16AE"
+					type: "item"
+					item: "storagenetwork:master"
+				}
+				{
+					id: "022DBD66A3B58EF4"
+					type: "item"
+					item: "storagenetwork:inventory"
+				}
+				{
+					id: "6CAAF6EDB05E1E94"
+					type: "item"
+					item: "storagenetwork:request"
+				}
+				{
+					id: "62997A802ED8072F"
+					type: "item"
+					item: "storagenetwork:storage_kabel"
+				}
+			]
+		}
+		{
+			title: "Tinker Construct"
+			x: 6.3d
+			y: 0.0d
+			dependencies: ["728B0369949F642A"]
+			id: "394D58380837EF56"
+			tasks: [{
+				id: "49F820E4C62328FC"
+				type: "item"
+				item: "tconstruct:grout"
+			}]
+		}
+		{
+			title: "Immersive Engeneering"
+			x: 13.5d
+			y: 1.7999999999999998d
+			dependencies: ["7A44FFC9EF95CCD4"]
+			id: "14E10685FD68DC97"
+			tasks: [{
+				id: "2894399B270A71B6"
+				type: "item"
+				item: "immersiveengineering:blastbrick"
+			}]
+			rewards: [{
+				id: "00BF0E30C5F9626C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 10.799999999999999d
+			y: 2.6999999999999997d
+			dependencies: ["14E10685FD68DC97"]
+			id: "01038FB9F42BA120"
+			tasks: [{
+				id: "1096BF11FD68EFE2"
+				type: "item"
+				item: "minecolonies:blockhutdeliveryman"
+			}]
+		}
+		{
+			x: 10.799999999999999d
+			y: 1.7999999999999998d
+			dependencies: ["14E10685FD68DC97"]
+			id: "2CF979DDE47FFEA3"
+			tasks: [{
+				id: "6846B629B0E040D2"
+				type: "item"
+				item: "minecolonies:blockhutwarehouse"
+			}]
+		}
+		{
+			x: 10.799999999999999d
+			y: 0.8999999999999999d
+			dependencies: ["14E10685FD68DC97"]
+			id: "15F465483B6E3E48"
+			tasks: [{
+				id: "1DF19EDDDB982D97"
+				type: "item"
+				item: "minecolonies:blockhutminer"
+			}]
+		}
+		{
+			x: 9.9d
+			y: 1.7999999999999998d
+			dependencies: ["14E10685FD68DC97"]
+			id: "36267F3338D97D5C"
+			tasks: [{
+				id: "72D59EFED124DC27"
+				type: "item"
+				item: "minecolonies:blockhutlumberjack"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 0.0d
+			dependencies: ["23127D81A3A587D3"]
+			id: "7A44FFC9EF95CCD4"
+			tasks: [{
+				id: "5A8F7064A2CB9802"
+				type: "checkmark"
+				title: "Age of Industrialisation"
+			}]
+			rewards: [{
+				id: "679251116C34A152"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: -0.8999999999999999d
+			y: -1.7999999999999998d
+			dependencies: ["2256492953C2A6CE"]
+			id: "733E7FEBCDCD79DF"
+			tasks: [{
+				id: "7F0522CAEFF1AA4C"
+				type: "checkmark"
+				title: "Stone Age"
+			}]
+			rewards: [{
+				id: "45334CB028F090BF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 8.1d
+			y: 1.7999999999999998d
+			dependencies: [
+				"15F465483B6E3E48"
+				"2CF979DDE47FFEA3"
+				"01038FB9F42BA120"
+				"36267F3338D97D5C"
+			]
+			id: "1A3B725AC45B6FE4"
+			tasks: [{
+				id: "193CB65D2D5D9D88"
+				type: "checkmark"
+				title: "Python !"
+			}]
+			rewards: [{
+				id: "161B8ED1BB740294"
+				type: "ftbmoney:money"
+				ftb_money: 1L
+			}]
+		}
+		{
+			x: 6.3d
+			y: 1.7999999999999998d
+			dependencies: [
+				"019E66E3C9D620E9"
+				"1A3B725AC45B6FE4"
+			]
+			id: "4966E98E904C3737"
+			tasks: [{
+				id: "49A953C70C63C18B"
+				type: "item"
+				item: "infinity:mini_snake"
+			}]
+			rewards: [{
+				id: "54648C831E8D02BC"
+				type: "item"
+				item: "industrialforegoing:machine_frame_pity"
+			}]
+		}
+		{
+			x: -2.6999999999999997d
+			y: -1.7999999999999998d
+			dependencies: ["58FC155055AAC194"]
+			id: "2256492953C2A6CE"
+			tasks: [{
+				id: "3E271B4E13A328C3"
+				type: "checkmark"
+				title: "Fury !"
+			}]
+		}
+		{
+			x: 6.3d
+			y: 3.5999999999999996d
+			dependencies: ["4966E98E904C3737"]
+			id: "23A453A791D18C03"
+			tasks: [{
+				id: "2756DFAF5E9EF764"
+				type: "checkmark"
+				title: "Industrial Foregoing"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.7999999999999998d
+			dependencies: [
+				"4966E98E904C3737"
+				"23A453A791D18C03"
+			]
+			id: "7A5BAEFA80224B29"
+			tasks: [
+				{
+					id: "555813B7D8E9D07F"
+					type: "checkmark"
+					title: "Powah"
+				}
+				{
+					id: "1816E9E3AE0A9251"
+					type: "item"
+					item: "powah:dielectric_casing"
+				}
+			]
+			rewards: [{
+				id: "3A75985479042489"
+				type: "item"
+				item: "powah:dielectric_casing"
 			}]
 		}
 	]
