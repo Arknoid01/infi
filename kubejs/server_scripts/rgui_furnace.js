@@ -8,5 +8,6 @@ onEvent('recipes', event => {
 	///////////////////////////////////////////////////////////
 	///////////////////////////////////////////////////////////
                                                        
+event.smelting('1x infinity:orichalcumingot', 'infinity:orichalcum_dust')
                                                        
 })//////DONT ADD MORE CODE AFTER THIS LINE
