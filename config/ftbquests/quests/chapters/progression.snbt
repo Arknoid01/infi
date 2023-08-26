@@ -464,7 +464,7 @@
 			}]
 		}
 		{
-			title: "Cyclopes Eyes"
+			title: "Cyclopes !"
 			x: 13.499999999999998d
 			y: -1.7999999999999998d
 			dependencies: [
@@ -738,6 +738,51 @@
 				id: "3A75985479042489"
 				type: "item"
 				item: "powah:dielectric_casing"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 3.5999999999999996d
+			dependencies: ["7A5BAEFA80224B29"]
+			id: "6DBDAC0E47C2CBD0"
+			tasks: [{
+				id: "2DA59602AA759F9A"
+				type: "checkmark"
+				title: "Nature's Aura"
+			}]
+		}
+		{
+			x: 2.6999999999999997d
+			y: 3.5999999999999996d
+			dependencies: ["6DBDAC0E47C2CBD0"]
+			id: "00870FFC36A7F9D6"
+			tasks: [{
+				id: "3C86388658F8031F"
+				type: "checkmark"
+				title: "Mystical"
+			}]
+		}
+		{
+			title: "Silent's Mechanisms"
+			x: 13.5d
+			y: 3.5999999999999996d
+			dependencies: ["14E10685FD68DC97"]
+			id: "28BB4D2F7721098B"
+			tasks: [{
+				id: "73967F618B9DA1F0"
+				type: "checkmark"
+				title: "Silent Mechanism"
+			}]
+		}
+		{
+			x: 6.3d
+			y: -5.3999999999999995d
+			dependencies: ["6C6469D45C8F71EF"]
+			id: "4A073BDE6DD75C4A"
+			tasks: [{
+				id: "2B9F07CD284FD3B2"
+				type: "checkmark"
+				title: "RfTools"
 			}]
 		}
 	]

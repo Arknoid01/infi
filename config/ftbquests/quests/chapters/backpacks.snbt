@@ -18,9 +18,9 @@
 				item: "usefulbackpacks:backpack_small"
 			}]
 			rewards: [{
-				id: "03A63057379C8DB8"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -34,9 +34,9 @@
 				item: "usefulbackpacks:backpack_medium"
 			}]
 			rewards: [{
-				id: "1DE9779624AE90A5"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "6CA0D20EA150C985"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -50,9 +50,9 @@
 				item: "usefulbackpacks:backpack_large"
 			}]
 			rewards: [{
-				id: "2D492804FE66648A"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "751A606B45CA3D9E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -69,9 +69,9 @@
 				}
 			}]
 			rewards: [{
-				id: "49E314969EFA4170"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "2B47F5E5D3E0F1EA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -94,10 +94,9 @@
 				}
 			}]
 			rewards: [{
-				id: "64A27091D0DDCE6F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "1D88FBF7D2E507C4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -111,9 +110,9 @@
 				item: "sophisticatedbackpacks:iron_backpack"
 			}]
 			rewards: [{
-				id: "4A6E854B2A8223DC"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "14B69E186589CFCF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -126,9 +125,9 @@
 				item: "sophisticatedbackpacks:backpack"
 			}]
 			rewards: [{
-				id: "3A7546EE8C1E177C"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "19580196FD18B926"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -142,9 +141,9 @@
 				item: "sophisticatedbackpacks:gold_backpack"
 			}]
 			rewards: [{
-				id: "573FA14BBE06C473"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "04E878EFF5721E4E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -158,10 +157,9 @@
 				item: "sophisticatedbackpacks:diamond_backpack"
 			}]
 			rewards: [{
-				id: "56CA87D421666D41"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "13B7DF7BB5B23490"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -175,10 +173,9 @@
 				item: "sophisticatedbackpacks:netherite_backpack"
 			}]
 			rewards: [{
-				id: "07F7813BBEC3BF45"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "153912678DFAD2D5"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -192,9 +189,9 @@
 				item: "sophisticatedbackpacks:pickup_upgrade"
 			}]
 			rewards: [{
-				id: "79F3562C05FF9244"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "4492A6E362810052"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -208,9 +205,9 @@
 				item: "sophisticatedbackpacks:advanced_pickup_upgrade"
 			}]
 			rewards: [{
-				id: "560070987DD3CD4F"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "68D449F8BEA57CC1"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -224,9 +221,9 @@
 				item: "sophisticatedbackpacks:filter_upgrade"
 			}]
 			rewards: [{
-				id: "257B97F019EBB860"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "75DCE4F05A412D00"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -240,9 +237,9 @@
 				item: "sophisticatedbackpacks:advanced_filter_upgrade"
 			}]
 			rewards: [{
-				id: "5A95F99346D725CB"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "3900204B6E12F181"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -256,9 +253,9 @@
 				item: "sophisticatedbackpacks:magnet_upgrade"
 			}]
 			rewards: [{
-				id: "01E822FA0F896705"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "2A0E73701C240B52"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -272,9 +269,9 @@
 				item: "sophisticatedbackpacks:advanced_magnet_upgrade"
 			}]
 			rewards: [{
-				id: "5AC51EE2C00092D1"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "2DF9CF48542A571B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -288,9 +285,9 @@
 				item: "sophisticatedbackpacks:feeding_upgrade"
 			}]
 			rewards: [{
-				id: "3E5ABC7D370B023E"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "7F9987B80F3794CA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -304,9 +301,9 @@
 				item: "sophisticatedbackpacks:advanced_feeding_upgrade"
 			}]
 			rewards: [{
-				id: "7B8E0137842D2C2D"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "75F659929B6DF662"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -320,9 +317,9 @@
 				item: "sophisticatedbackpacks:compacting_upgrade"
 			}]
 			rewards: [{
-				id: "697F4AA6A42AC387"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "5E5D181E82C070FC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -336,9 +333,9 @@
 				item: "sophisticatedbackpacks:advanced_compacting_upgrade"
 			}]
 			rewards: [{
-				id: "0AE6426E139AE265"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "14AC4EA41C0156B1"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -352,9 +349,9 @@
 				item: "sophisticatedbackpacks:void_upgrade"
 			}]
 			rewards: [{
-				id: "6F553043E1B66A2F"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "2931FA3A93769721"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -368,9 +365,9 @@
 				item: "sophisticatedbackpacks:advanced_void_upgrade"
 			}]
 			rewards: [{
-				id: "75B075FC566E678F"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "3D463E20B1C7FC85"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -384,9 +381,9 @@
 				item: "sophisticatedbackpacks:restock_upgrade"
 			}]
 			rewards: [{
-				id: "35DDCC2DB3269EE2"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "77B1C7003335EE84"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -400,9 +397,9 @@
 				item: "sophisticatedbackpacks:advanced_restock_upgrade"
 			}]
 			rewards: [{
-				id: "5A5B1776D7D358AF"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "131344072028F0F6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -416,9 +413,9 @@
 				item: "sophisticatedbackpacks:deposit_upgrade"
 			}]
 			rewards: [{
-				id: "526366C93BFB7B37"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "583AF12998F3848A"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -432,9 +429,9 @@
 				item: "sophisticatedbackpacks:advanced_deposit_upgrade"
 			}]
 			rewards: [{
-				id: "26D22CDC2B4F1136"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "70359C2AF5C6F612"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -448,9 +445,9 @@
 				item: "sophisticatedbackpacks:refill_upgrade"
 			}]
 			rewards: [{
-				id: "1A175C9ED7301F21"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "6D5AC5F3B4B69898"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -464,9 +461,9 @@
 				item: "sophisticatedbackpacks:inception_upgrade"
 			}]
 			rewards: [{
-				id: "405BBCDEA7C1AD55"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "01208BDFF2AAB7F9"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -480,9 +477,9 @@
 				item: "sophisticatedbackpacks:everlasting_upgrade"
 			}]
 			rewards: [{
-				id: "7DC27B4347D35040"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "134B33F8730D1A2A"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -496,9 +493,9 @@
 				item: "sophisticatedbackpacks:smelting_upgrade"
 			}]
 			rewards: [{
-				id: "3A509474136D109E"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "25B374821FE0A774"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -512,9 +509,9 @@
 				item: "sophisticatedbackpacks:auto_smelting_upgrade"
 			}]
 			rewards: [{
-				id: "5AB5D4F65C5AA7C5"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "59F9430A4A771C77"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -528,9 +525,9 @@
 				item: "sophisticatedbackpacks:crafting_upgrade"
 			}]
 			rewards: [{
-				id: "0312AB5784896B96"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "109FCED22F939B21"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -544,9 +541,9 @@
 				item: "sophisticatedbackpacks:stonecutter_upgrade"
 			}]
 			rewards: [{
-				id: "4792DD82CA011401"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "7EC0582C2CD42F07"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -560,9 +557,9 @@
 				item: "sophisticatedbackpacks:jukebox_upgrade"
 			}]
 			rewards: [{
-				id: "2D3DFB32F73A1ECC"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "3ED7F79509A59617"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -577,9 +574,9 @@
 			}]
 			rewards: [
 				{
-					id: "31CF651537B0E4B2"
-					type: "item"
-					item: "decimal_coins:coin_1"
+					id: "24C68A2BEB98065B"
+					type: "ftbmoney:money"
+					ftb_money: 1L
 				}
 				{
 					id: "4695067958BACBB9"
@@ -599,9 +596,9 @@
 				item: "sophisticatedbackpacks:advanced_tool_swapper_upgrade"
 			}]
 			rewards: [{
-				id: "1BD3E807C6DD79A2"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "391FDE4CB744B8DB"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -615,9 +612,9 @@
 				item: "sophisticatedbackpacks:tank_upgrade"
 			}]
 			rewards: [{
-				id: "288E12DE3F6632A9"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "4FFD9F7145AA8DE3"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -631,9 +628,9 @@
 				item: "sophisticatedbackpacks:battery_upgrade"
 			}]
 			rewards: [{
-				id: "7152C6E8C1FE1FFD"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "5E0EF96D060A6ABC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -647,9 +644,9 @@
 				item: "sophisticatedbackpacks:stack_upgrade_tier_1"
 			}]
 			rewards: [{
-				id: "59CE913B0AA3DDB0"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "4DA1359135402A45"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -663,9 +660,9 @@
 				item: "sophisticatedbackpacks:stack_upgrade_tier_2"
 			}]
 			rewards: [{
-				id: "09F4F4A301AE60D1"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "758465720931A8E6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -679,10 +676,9 @@
 				item: "sophisticatedbackpacks:stack_upgrade_tier_3"
 			}]
 			rewards: [{
-				id: "2CB143CF289C5A38"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "4A4F32D2E165EC57"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -696,10 +692,9 @@
 				item: "sophisticatedbackpacks:stack_upgrade_tier_4"
 			}]
 			rewards: [{
-				id: "1B326A5CC2047BF9"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "40E7CA1F8CC95955"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -714,9 +709,9 @@
 				item: "sophisticatedbackpacks:upgrade_base"
 			}]
 			rewards: [{
-				id: "0EE4209321DA7AAF"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "1AAD133D335D4FA2"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -730,9 +725,9 @@
 				item: "sophisticatedbackpacks:pump_upgrade"
 			}]
 			rewards: [{
-				id: "1FB5FA09C7CA25B8"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "78CD19E142ABA4AB"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -746,10 +741,9 @@
 				item: "sophisticatedbackpacks:xp_pump_upgrade"
 			}]
 			rewards: [{
-				id: "59C8FAA292914F7D"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "7E9FC8CA0BD1B1AC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -763,9 +757,9 @@
 				item: "sophisticatedbackpacks:advanced_pump_upgrade"
 			}]
 			rewards: [{
-				id: "05D17D4E601948C8"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "606F12B678DA600F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 	]

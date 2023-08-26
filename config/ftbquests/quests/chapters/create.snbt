@@ -18,9 +18,9 @@
 				item: "create:andesite_alloy"
 			}]
 			rewards: [{
-				id: "42E8E179F45EA209"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -34,9 +34,9 @@
 				item: "create:water_wheel"
 			}]
 			rewards: [{
-				id: "73D5870479CB84E6"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -50,9 +50,9 @@
 				item: "create:windmill_bearing"
 			}]
 			rewards: [{
-				id: "03A8098F73A19689"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -66,9 +66,9 @@
 				item: "create:shaft"
 			}]
 			rewards: [{
-				id: "4EF47229D30CCFFD"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -82,9 +82,9 @@
 				item: "create:cogwheel"
 			}]
 			rewards: [{
-				id: "5CF861576165B7E1"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -98,9 +98,9 @@
 				item: "create:large_cogwheel"
 			}]
 			rewards: [{
-				id: "4E55BC8A8C09670A"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L"
 			}]
 		}
 		{
@@ -114,9 +114,9 @@
 				item: "create:andesite_casing"
 			}]
 			rewards: [{
-				id: "07FBA687358A2BA8"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -130,9 +130,9 @@
 				item: "create:millstone"
 			}]
 			rewards: [{
-				id: "306BBC9AF840ED95"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -146,9 +146,9 @@
 				item: "create:mechanical_press"
 			}]
 			rewards: [{
-				id: "04CFB875CFD52A7E"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -172,9 +172,9 @@
 				}
 			}]
 			rewards: [{
-				id: "6B41DB873BFA0FAF"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -196,9 +196,9 @@
 				}
 			}]
 			rewards: [{
-				id: "3244B43106EFDE5D"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -221,9 +221,9 @@
 				}
 			}]
 			rewards: [{
-				id: "7BBFD2D77404AEF2"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -246,9 +246,9 @@
 				}
 			}]
 			rewards: [{
-				id: "3DC5604ED6BEF212"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -262,9 +262,9 @@
 				item: "create:copper_casing"
 			}]
 			rewards: [{
-				id: "53821FED1D81D828"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -276,7 +276,7 @@
 				id: "23AA62F8C47514C0"
 				type: "item"
 				title: "Zinc Plate"
-				icon: "unifyall:zinc_plate"
+				icon: "emendatusenigmatica:zinc_plate"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -286,9 +286,9 @@
 				}
 			}]
 			rewards: [{
-				id: "52133123CFE138CE"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -302,9 +302,9 @@
 				item: "create:empty_blaze_burner"
 			}]
 			rewards: [{
-				id: "5AA81B2C09D96240"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -318,9 +318,9 @@
 				item: "create:mechanical_mixer"
 			}]
 			rewards: [{
-				id: "6ED7A4263F66EF31"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -334,9 +334,9 @@
 				item: "create:blaze_burner"
 			}]
 			rewards: [{
-				id: "33A73814A88605EE"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -361,9 +361,9 @@
 				}
 			}]
 			rewards: [{
-				id: "4570C3BD2F5103EA"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -377,9 +377,9 @@
 				item: "create:brass_casing"
 			}]
 			rewards: [{
-				id: "5353CD8C29245A51"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -396,9 +396,9 @@
 				item: "create:mechanical_crafter"
 			}]
 			rewards: [{
-				id: "7AD79B962BC45497"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -412,9 +412,9 @@
 				item: "create:polished_rose_quartz"
 			}]
 			rewards: [{
-				id: "4C1CEBB99AC07EBC"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -441,9 +441,9 @@
 				}
 			]
 			rewards: [{
-				id: "5DDE85DC58F84424"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -457,10 +457,9 @@
 				item: "create:rotation_speed_controller"
 			}]
 			rewards: [{
-				id: "6FC2A99CCF3C1636"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -474,9 +473,9 @@
 				item: "create:mechanical_drill"
 			}]
 			rewards: [{
-				id: "138A2282AC54A754"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -498,10 +497,9 @@
 				}
 			]
 			rewards: [{
-				id: "69FD7DC629A8798D"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -515,10 +513,9 @@
 				item: "create:crushing_wheel"
 			}]
 			rewards: [{
-				id: "1366755E04E5B26F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -532,10 +529,9 @@
 				item: "create:blaze_cake"
 			}]
 			rewards: [{
-				id: "20A37F7BFAE91975"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -549,9 +545,9 @@
 				item: "create:fluid_tank"
 			}]
 			rewards: [{
-				id: "61F6F2414E00130B"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -565,9 +561,9 @@
 				item: "create:spout"
 			}]
 			rewards: [{
-				id: "497EF66CA82EF509"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -585,10 +581,9 @@
 				}
 			}]
 			rewards: [{
-				id: "17F9296055125A6D"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -602,10 +597,9 @@
 				item: "create:shadow_steel"
 			}]
 			rewards: [{
-				id: "359C0622F875D232"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -619,10 +613,9 @@
 				item: "create:refined_radiance"
 			}]
 			rewards: [{
-				id: "06E32A5AF9EF770B"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -636,10 +629,9 @@
 				item: "create:shadow_steel_casing"
 			}]
 			rewards: [{
-				id: "33B222BD08BE22E9"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -653,10 +645,9 @@
 				item: "create:refined_radiance_casing"
 			}]
 			rewards: [{
-				id: "6A21921978391595"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -670,10 +661,9 @@
 				item: "create:mechanical_arm"
 			}]
 			rewards: [{
-				id: "2EFB504E02CFF08B"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -690,9 +680,9 @@
 				item: "create:nixie_tube"
 			}]
 			rewards: [{
-				id: "47A13C0BECA3F588"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -709,9 +699,9 @@
 				item: "create:brass_tunnel"
 			}]
 			rewards: [{
-				id: "5C18AE5DFDFEC2DA"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -728,9 +718,9 @@
 				item: "create:brass_funnel"
 			}]
 			rewards: [{
-				id: "3DDC5D4AC180C1B2"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -744,9 +734,9 @@
 				item: "create:andesite_tunnel"
 			}]
 			rewards: [{
-				id: "2FC61D62FE483541"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -760,9 +750,9 @@
 				item: "create:andesite_funnel"
 			}]
 			rewards: [{
-				id: "28A701D4F254D306"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -776,9 +766,9 @@
 				item: "create:item_drain"
 			}]
 			rewards: [{
-				id: "21F42BAE8B98AD52"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -792,9 +782,9 @@
 				item: "create:mechanical_bearing"
 			}]
 			rewards: [{
-				id: "26AF490017EDC8AC"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -808,9 +798,9 @@
 				item: "create:gearshift"
 			}]
 			rewards: [{
-				id: "65BC5DF9202F081C"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -824,9 +814,9 @@
 				item: "create:mechanical_piston"
 			}]
 			rewards: [{
-				id: "5DB0A633062038B2"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -840,9 +830,9 @@
 				item: "create:sticky_mechanical_piston"
 			}]
 			rewards: [{
-				id: "0DDD90A42FA1E6F4"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -856,9 +846,9 @@
 				item: "create:mechanical_saw"
 			}]
 			rewards: [{
-				id: "56ADD6AB0FFE33AC"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -872,9 +862,9 @@
 				item: "create:mechanical_harvester"
 			}]
 			rewards: [{
-				id: "56A1BDC35B6FB9AC"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -888,9 +878,9 @@
 				item: "create:encased_fan"
 			}]
 			rewards: [{
-				id: "0C372EEA1E218DE8"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -904,9 +894,9 @@
 				item: "create:gearbox"
 			}]
 			rewards: [{
-				id: "12F9F27A8DD9571F"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -920,9 +910,9 @@
 				item: "create:depot"
 			}]
 			rewards: [{
-				id: "67AB6D0F57BE936D"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -936,9 +926,9 @@
 				item: "create:wrench"
 			}]
 			rewards: [{
-				id: "44F3F4F7060520B1"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -952,9 +942,9 @@
 				item: "create:goggles"
 			}]
 			rewards: [{
-				id: "7D08E7A244904ABE"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -968,9 +958,9 @@
 				item: "createaddition:capacitor"
 			}]
 			rewards: [{
-				id: "429B33AAD369B7AE"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -987,9 +977,9 @@
 				item: "create:deployer"
 			}]
 			rewards: [{
-				id: "44D9FAAB92FBAB12"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1003,9 +993,9 @@
 				item: "create:electron_tube"
 			}]
 			rewards: [{
-				id: "6F79E2D3E6F66A78"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1022,10 +1012,9 @@
 				item: "create:precision_mechanism"
 			}]
 			rewards: [{
-				id: "4445BAA6B7E45CCD"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1048,10 +1037,9 @@
 				}
 			}]
 			rewards: [{
-				id: "40B362CF7528C97F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "246ADECE7F6A53BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 	]

@@ -22,9 +22,9 @@
 				item: "draconicevolution:draconium_core"
 			}]
 			rewards: [{
-				id: "372EF46C17D2AE5E"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "2229015EA8680BDF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -38,10 +38,9 @@
 				item: "draconicevolution:wyvern_core"
 			}]
 			rewards: [{
-				id: "2A87CD17BDE8B255"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "58DBF66E0598991D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -58,10 +57,9 @@
 				item: "draconicevolution:awakened_core"
 			}]
 			rewards: [{
-				id: "31200CD1D46CE889"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "28685AE907C4025F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -79,10 +77,9 @@
 				item: "draconicevolution:chaotic_core"
 			}]
 			rewards: [{
-				id: "31B1F5B771401D69"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "3E8C6461A79E618F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -95,10 +92,9 @@
 				item: "draconicevolution:chaos_shard"
 			}]
 			rewards: [{
-				id: "46BC1C58DA3838BC"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "60A096974700DF6F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -115,10 +111,9 @@
 				item: "draconicevolution:awakened_draconium_block"
 			}]
 			rewards: [{
-				id: "3229598C81D892CF"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "45FE7BF58F9FB8C8"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -152,9 +147,9 @@
 				}
 			]
 			rewards: [{
-				id: "4B101D469D54EE72"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "6A19AD1C9FC49365"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -172,10 +167,9 @@
 				count: 7L
 			}]
 			rewards: [{
-				id: "50124DDDE78A54A7"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "14455343A6B148CF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -190,10 +184,9 @@
 				count: 12L
 			}]
 			rewards: [{
-				id: "6D20A8BC058F48F8"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "73C3F29B91292C0B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -231,10 +224,9 @@
 				}
 			}]
 			rewards: [{
-				id: "57E89091AF2DC203"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "6E31403BE799CF37"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -269,10 +261,9 @@
 				}
 			}]
 			rewards: [{
-				id: "00A1C548E5DB7220"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "0FD6905017B3D94D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -311,10 +302,9 @@
 				}
 			}]
 			rewards: [{
-				id: "420DB486A63F0FF1"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "270C4EA4FF60919B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -357,10 +347,9 @@
 				}
 			}]
 			rewards: [{
-				id: "09E7F06FE7A93ECC"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "7403CBBD0BFA0D61"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -405,10 +394,9 @@
 				}
 			}]
 			rewards: [{
-				id: "03EBDCE6D8BFF1C5"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "0962C37E246F5ADD"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -443,10 +431,9 @@
 				}
 			}]
 			rewards: [{
-				id: "1E26709C5E7DAF93"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "52EFFA3DDD7CF3CC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -485,10 +472,9 @@
 				}
 			}]
 			rewards: [{
-				id: "629E33162ACAF25A"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "5BF891BFC72E9995"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -526,10 +512,9 @@
 				}
 			}]
 			rewards: [{
-				id: "43650F9F29BD689E"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "081A3E0F5D4EBE73"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -569,10 +554,9 @@
 				}
 			}]
 			rewards: [{
-				id: "0DA9C9FABF3A1255"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "5BAB65E80F366DE9"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -616,10 +600,9 @@
 				}
 			}]
 			rewards: [{
-				id: "07EEE07D595F221C"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "27F2DFC3A8D4405C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -662,10 +645,9 @@
 				}
 			}]
 			rewards: [{
-				id: "50A4059C4E9745E1"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "7953FC2EC68952C6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -705,10 +687,9 @@
 				}
 			}]
 			rewards: [{
-				id: "2021BF40A0E93FA7"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "749499F2B241EE53"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -752,10 +733,9 @@
 				}
 			}]
 			rewards: [{
-				id: "51E2706D74239B5F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "20875402DE80F4B0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -798,10 +778,9 @@
 				}
 			}]
 			rewards: [{
-				id: "360B2463802210EE"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "2AA0B91EF96E14EE"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -841,10 +820,9 @@
 				}
 			}]
 			rewards: [{
-				id: "59730121D7E2B074"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "607599432603B67B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -888,10 +866,9 @@
 				}
 			}]
 			rewards: [{
-				id: "62FA758D3693F21F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "5F43210E8071487B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -934,10 +911,9 @@
 				}
 			}]
 			rewards: [{
-				id: "41445A443A60D616"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "2BEBD4525BBC8D5E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -972,10 +948,9 @@
 				}
 			}]
 			rewards: [{
-				id: "729921FE49E83441"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "69468445F75CF188"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1014,10 +989,9 @@
 				}
 			}]
 			rewards: [{
-				id: "5886C43C1708E7BB"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "13875DA5014BD19A"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1055,10 +1029,9 @@
 				}
 			}]
 			rewards: [{
-				id: "60D6C16F9959DE79"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "3EB7A1D094A78C01"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1093,10 +1066,9 @@
 				}
 			}]
 			rewards: [{
-				id: "5C495C48E6BE932D"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "0667E74B52D81CBC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1135,10 +1107,9 @@
 				}
 			}]
 			rewards: [{
-				id: "5A35BAA451006F8B"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "079F13798C78F1D1"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1176,10 +1147,9 @@
 				}
 			}]
 			rewards: [{
-				id: "050E23194931FE92"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "16ECB428403CC3B1"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1197,10 +1167,9 @@
 				item: "draconicevolution:draconium_chest"
 			}]
 			rewards: [{
-				id: "12ADFFAC0A85ED2C"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "36363EF94C86842B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1254,10 +1223,9 @@
 				}
 			}]
 			rewards: [{
-				id: "429852DE810028D3"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "51828F07E89A648F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1312,10 +1280,9 @@
 				}
 			}]
 			rewards: [{
-				id: "79C5182590CD8199"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "575D31BB06FC01A0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1370,10 +1337,9 @@
 				}
 			}]
 			rewards: [{
-				id: "35F7D6A6423F1BB3"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "4DD82822CBB0C129"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1388,10 +1354,9 @@
 				item: "draconicevolution:wyvern_energy_core"
 			}]
 			rewards: [{
-				id: "767E69E936AF7352"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "078DFDBAC6B133A3"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1409,10 +1374,9 @@
 				item: "draconicevolution:draconic_energy_core"
 			}]
 			rewards: [{
-				id: "0037CEE37E1C6E5D"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "16DE268240A4CA5E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1430,10 +1394,9 @@
 				item: "draconicevolution:chaotic_energy_core"
 			}]
 			rewards: [{
-				id: "72C0A9A2589F9F8E"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "747600DA31AC6BD6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1448,9 +1411,9 @@
 				item: "draconicevolution:flux_gate"
 			}]
 			rewards: [{
-				id: "5E2D2C9A83BCBCCB"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "07AACD8F9A458443"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1465,9 +1428,9 @@
 				item: "draconicevolution:fluid_gate"
 			}]
 			rewards: [{
-				id: "7AC27A30F54F084B"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "7F6AA39DF584A210"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1482,9 +1445,9 @@
 				item: "draconicevolution:grinder"
 			}]
 			rewards: [{
-				id: "2DAB1FA0B8F057E4"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "2CFF6C2736010A8E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1499,9 +1462,9 @@
 				item: "draconicevolution:generator"
 			}]
 			rewards: [{
-				id: "5D4F689B281C208A"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "79BE3853DEE418D0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1516,10 +1479,9 @@
 				item: "draconicevolution:magnet"
 			}]
 			rewards: [{
-				id: "3611246BC1E22E1B"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "0857318BDC8FB393"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1537,10 +1499,9 @@
 				item: "draconicevolution:advanced_magnet"
 			}]
 			rewards: [{
-				id: "77AC875870E3EE71"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "53FEDDF92655475C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1555,10 +1516,9 @@
 				item: "draconicevolution:crystal_binder"
 			}]
 			rewards: [{
-				id: "2BC461BA099EE549"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "3B5DAC1B2F04C47F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1573,10 +1533,9 @@
 				item: "draconicevolution:energy_transfuser"
 			}]
 			rewards: [{
-				id: "15DC391E6A0B0CB2"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "254F7D06049180B8"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1589,9 +1548,9 @@
 				item: "draconicevolution:draconium_ingot"
 			}]
 			rewards: [{
-				id: "35A0D142CF633028"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "5301DAD9ECE4987F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1606,9 +1565,9 @@
 				item: "draconicevolution:basic_io_crystal"
 			}]
 			rewards: [{
-				id: "537B78885F6CCB6E"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "313961E95211B060"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1623,10 +1582,9 @@
 				item: "draconicevolution:wyvern_io_crystal"
 			}]
 			rewards: [{
-				id: "16E1043880070B85"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "39B70D7ADF609CBC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1641,10 +1599,9 @@
 				item: "draconicevolution:draconic_io_crystal"
 			}]
 			rewards: [{
-				id: "61B6DF83F57481A3"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "6CF44B34CA499944"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1659,9 +1616,9 @@
 				item: "draconicevolution:basic_relay_crystal"
 			}]
 			rewards: [{
-				id: "384FFCB81D4B0E12"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "0B015A61613425C4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1675,10 +1632,9 @@
 				item: "draconicevolution:wyvern_relay_crystal"
 			}]
 			rewards: [{
-				id: "4974C36211DA7684"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "1D3B53D65F727C33"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1692,10 +1648,9 @@
 				item: "draconicevolution:draconic_relay_crystal"
 			}]
 			rewards: [{
-				id: "756515D8800D55A9"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "45301E1230D36D15"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1710,9 +1665,9 @@
 				item: "draconicevolution:basic_wireless_crystal"
 			}]
 			rewards: [{
-				id: "60C9A78A8549E1B9"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "1D07FC7AD257ED0D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1727,10 +1682,9 @@
 				item: "draconicevolution:wyvern_wireless_crystal"
 			}]
 			rewards: [{
-				id: "0313675BF09F2BFD"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "619FEBAA32AD4DF2"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1745,10 +1699,9 @@
 				item: "draconicevolution:draconic_wireless_crystal"
 			}]
 			rewards: [{
-				id: "5DE04848E10C88C2"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "57E97B59B5713C05"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1774,9 +1727,9 @@
 				item: "draconicevolution:draconium_energy_module"
 			}]
 			rewards: [{
-				id: "0114533F4521754B"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "764EC449EE7B6B8A"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1790,10 +1743,9 @@
 				item: "draconicevolution:wyvern_energy_module"
 			}]
 			rewards: [{
-				id: "5BA50E177055B40F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "5DF37E43368D514B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1807,10 +1759,9 @@
 				item: "draconicevolution:draconic_energy_module"
 			}]
 			rewards: [{
-				id: "7FB81D2762C58618"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "3140A562EC26A9EB"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1824,10 +1775,9 @@
 				item: "draconicevolution:chaotic_energy_module"
 			}]
 			rewards: [{
-				id: "7575635CFA9D4012"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "331E0F03C9402157"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1841,9 +1791,9 @@
 				item: "draconicevolution:draconium_speed_module"
 			}]
 			rewards: [{
-				id: "1A246CA727AB3C5F"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "7BF8FA28AD0FCDA4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1857,10 +1807,9 @@
 				item: "draconicevolution:wyvern_speed_module"
 			}]
 			rewards: [{
-				id: "7327BA7B1A59DE62"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "248200614B16663E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1874,10 +1823,9 @@
 				item: "draconicevolution:draconic_speed_module"
 			}]
 			rewards: [{
-				id: "45BDD50F3918D679"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "6735C621CA7A9098"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1891,10 +1839,9 @@
 				item: "draconicevolution:chaotic_speed_module"
 			}]
 			rewards: [{
-				id: "4E8A57A21B197823"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "0B344BDFEDFEC8D6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1908,9 +1855,9 @@
 				item: "draconicevolution:draconium_damage_module"
 			}]
 			rewards: [{
-				id: "015FB5B08DEFAEBD"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "10AD4DC8A12D7C58"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1924,10 +1871,9 @@
 				item: "draconicevolution:wyvern_damage_module"
 			}]
 			rewards: [{
-				id: "3DB175ED818992CB"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "5BB5A79608ABD4E1"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1941,10 +1887,9 @@
 				item: "draconicevolution:draconic_damage_module"
 			}]
 			rewards: [{
-				id: "0A029609E14C330E"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "5B86B86E2063488C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1958,10 +1903,9 @@
 				item: "draconicevolution:chaotic_damage_module"
 			}]
 			rewards: [{
-				id: "72F72A0D4EA3C172"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "0E32D6EC2F36747E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1975,9 +1919,9 @@
 				item: "draconicevolution:draconium_aoe_module"
 			}]
 			rewards: [{
-				id: "1CA64C2B6D35C85F"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "03A5EF43C5EBEC91"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -1991,10 +1935,9 @@
 				item: "draconicevolution:wyvern_aoe_module"
 			}]
 			rewards: [{
-				id: "2E566C8DC32D30F4"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "198D3C59BA57D11F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2008,10 +1951,9 @@
 				item: "draconicevolution:draconic_aoe_module"
 			}]
 			rewards: [{
-				id: "1E960A0D845B09AC"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "2C83C66736C0EB12"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2025,10 +1967,9 @@
 				item: "draconicevolution:chaotic_aoe_module"
 			}]
 			rewards: [{
-				id: "67BBA98D36CCF753"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "41615CDE84A1E1BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2042,10 +1983,9 @@
 				item: "draconicevolution:wyvern_shield_control_module"
 			}]
 			rewards: [{
-				id: "04F1846078C218EA"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "09DDC71C3C883FBF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2059,10 +1999,9 @@
 				item: "draconicevolution:draconic_shield_control_module"
 			}]
 			rewards: [{
-				id: "24546C9679C5E9F9"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "37EF5424982F2EDE"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2076,10 +2015,9 @@
 				item: "draconicevolution:chaotic_shield_control_module"
 			}]
 			rewards: [{
-				id: "3F39472C384F52AF"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "13FAB830937C7B0C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2093,10 +2031,9 @@
 				item: "draconicevolution:wyvern_shield_capacity_module"
 			}]
 			rewards: [{
-				id: "4FC7B7EE6A0E1CA0"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "1D1A1F38015C8A9B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2110,10 +2047,9 @@
 				item: "draconicevolution:draconic_shield_capacity_module"
 			}]
 			rewards: [{
-				id: "0C4BBF0145F38B95"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "643F1B561CA039CC"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2127,10 +2063,9 @@
 				item: "draconicevolution:chaotic_shield_capacity_module"
 			}]
 			rewards: [{
-				id: "07FE39C6BE159DFA"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "4986547CAF9769C6"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2144,10 +2079,9 @@
 				item: "draconicevolution:wyvern_large_shield_capacity_module"
 			}]
 			rewards: [{
-				id: "2D6513F36930E2E2"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "5E9556C4DFB98C2D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2161,10 +2095,9 @@
 				item: "draconicevolution:draconic_large_shield_capacity_module"
 			}]
 			rewards: [{
-				id: "47BE3458E3DB7B2A"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "5B476A31FC03A2DF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2178,10 +2111,9 @@
 				item: "draconicevolution:chaotic_large_shield_capacity_module"
 			}]
 			rewards: [{
-				id: "4D8FCE807A7EC7B4"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "589D5F87126982B4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2195,10 +2127,9 @@
 				item: "draconicevolution:wyvern_shield_recovery_module"
 			}]
 			rewards: [{
-				id: "22EDE5A236DDC6F5"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "72ABFE6CB3F658F4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2212,10 +2143,9 @@
 				item: "draconicevolution:draconic_shield_recovery_module"
 			}]
 			rewards: [{
-				id: "0AC848D63FD7E3DA"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "0B54C0BF43F4A6A0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2229,10 +2159,9 @@
 				item: "draconicevolution:chaotic_shield_recovery_module"
 			}]
 			rewards: [{
-				id: "26C90F9ECDD06A86"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "7FF3682EE153601B"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2246,10 +2175,9 @@
 				item: "draconicevolution:wyvern_flight_module"
 			}]
 			rewards: [{
-				id: "36EFFE4A63575FD5"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "7A28D96641D77D01"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2263,10 +2191,9 @@
 				item: "draconicevolution:draconic_flight_module"
 			}]
 			rewards: [{
-				id: "453743770D78F013"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "4CADDD70126946CF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2280,10 +2207,9 @@
 				item: "draconicevolution:chaotic_flight_module"
 			}]
 			rewards: [{
-				id: "78B03E6E799F4B07"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "73155E9A189C515E"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2297,10 +2223,9 @@
 				item: "draconicevolution:wyvern_undying_module"
 			}]
 			rewards: [{
-				id: "686C543D755FA969"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "616C051C383F0477"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2314,10 +2239,9 @@
 				item: "draconicevolution:draconic_undying_module"
 			}]
 			rewards: [{
-				id: "6642D27BFC9E279A"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "051B19C7A71DAE29"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2331,10 +2255,9 @@
 				item: "draconicevolution:chaotic_undying_module"
 			}]
 			rewards: [{
-				id: "6EFC55F7263D9710"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "08469AE4AF85027D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2348,9 +2271,9 @@
 				item: "draconicevolution:draconium_auto_feed_module"
 			}]
 			rewards: [{
-				id: "30FBDBF1D9886CAF"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "37EF7301EA57BEA3"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2364,10 +2287,9 @@
 				item: "draconicevolution:wyvern_auto_feed_module"
 			}]
 			rewards: [{
-				id: "30756DDE6F2AFADE"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "139D4320BED39830"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2381,10 +2303,9 @@
 				item: "draconicevolution:draconic_auto_feed_module"
 			}]
 			rewards: [{
-				id: "41303E2690D77A45"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "0492C41A9480B00F"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2398,9 +2319,9 @@
 				item: "draconicevolution:draconium_jump_module"
 			}]
 			rewards: [{
-				id: "3DEAEEF76A8BD2A9"
-				type: "item"
-				item: "decimal_coins:coin_1"
+				id: "0FF130D7C140699C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2414,10 +2335,9 @@
 				item: "draconicevolution:wyvern_jump_module"
 			}]
 			rewards: [{
-				id: "585BD13A2B52DCF0"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "17435B05EA6F5AD8"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2431,10 +2351,9 @@
 				item: "draconicevolution:draconic_jump_module"
 			}]
 			rewards: [{
-				id: "47C10214128B2903"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "708113D7AFD4EFDE"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2448,10 +2367,9 @@
 				item: "draconicevolution:chaotic_jump_module"
 			}]
 			rewards: [{
-				id: "696865A072F0A71A"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "0A50C5ED17C3D281"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2465,10 +2383,9 @@
 				item: "draconicevolution:wyvern_hill_step_module"
 			}]
 			rewards: [{
-				id: "3C0556E3E7BF9A40"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "44A9951A70FB3720"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2482,10 +2399,9 @@
 				item: "draconicevolution:wyvern_proj_velocity_module"
 			}]
 			rewards: [{
-				id: "61F9738ACB72339B"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "2FCDBAEFBC6E77B0"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2499,10 +2415,9 @@
 				item: "draconicevolution:draconic_proj_velocity_module"
 			}]
 			rewards: [{
-				id: "51D65F9ACEC2A6F6"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "3EDF99351F46A2EE"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2516,10 +2431,9 @@
 				item: "draconicevolution:chaotic_proj_velocity_module"
 			}]
 			rewards: [{
-				id: "64D1DA71374AA699"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "16EB019C03E69346"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2533,10 +2447,9 @@
 				item: "draconicevolution:wyvern_proj_accuracy_module"
 			}]
 			rewards: [{
-				id: "60B0BAC8CCE5934E"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "5E38D6A235C5D5FF"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2550,10 +2463,9 @@
 				item: "draconicevolution:chaotic_proj_accuracy_module"
 			}]
 			rewards: [{
-				id: "7E4AA65B552FC3D8"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "19444EE7631D3B8D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2567,10 +2479,9 @@
 				item: "draconicevolution:draconic_proj_accuracy_module"
 			}]
 			rewards: [{
-				id: "58099C6C2ACE4417"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "06953BE06DB40237"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2584,10 +2495,9 @@
 				item: "draconicevolution:wyvern_proj_grav_comp_module"
 			}]
 			rewards: [{
-				id: "262B7444BA1D5531"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "03E7AA3B6BC42121"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2601,10 +2511,9 @@
 				item: "draconicevolution:draconic_proj_grav_comp_module"
 			}]
 			rewards: [{
-				id: "01C6577FB3E45308"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "39A156D8B2F77C7D"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2618,10 +2527,9 @@
 				item: "draconicevolution:chaotic_proj_grav_comp_module"
 			}]
 			rewards: [{
-				id: "5AC4839F5F85157C"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "383C952C6E5994BA"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2635,10 +2543,9 @@
 				item: "draconicevolution:wyvern_proj_penetration_module"
 			}]
 			rewards: [{
-				id: "4FAE7064BEC2EF46"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "6A7BA5C05E76EE62"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2652,10 +2559,9 @@
 				item: "draconicevolution:draconic_proj_penetration_module"
 			}]
 			rewards: [{
-				id: "2FE788857251BE29"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "17E244EF07154384"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2669,10 +2575,9 @@
 				item: "draconicevolution:chaotic_proj_penetration_module"
 			}]
 			rewards: [{
-				id: "68F14C9D5E426921"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "495DBA17B950A1E4"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2686,10 +2591,9 @@
 				item: "draconicevolution:wyvern_proj_damage_module"
 			}]
 			rewards: [{
-				id: "117EE9B71EBF77F6"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 2
+				id: "078FB2DC96772930"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2703,10 +2607,9 @@
 				item: "draconicevolution:draconic_proj_damage_module"
 			}]
 			rewards: [{
-				id: "3FD186AFD504D02F"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "5AA7BAF4BB2E29B7"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2720,10 +2623,9 @@
 				item: "draconicevolution:chaotic_proj_damage_module"
 			}]
 			rewards: [{
-				id: "14535058DBEB43C1"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 4
+				id: "4A77CCDE801BD127"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 		{
@@ -2737,10 +2639,9 @@
 				item: "draconicevolution:draconic_proj_anti_immune_module"
 			}]
 			rewards: [{
-				id: "79E4E3D5E701A41D"
-				type: "item"
-				item: "decimal_coins:coin_1"
-				count: 3
+				id: "7D2ACB63BE1CE78C"
+				type: "ftbmoney:money"
+				ftb_money: 1L
 			}]
 		}
 	]
