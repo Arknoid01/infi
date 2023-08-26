@@ -10,6 +10,8 @@ console.info('Hello, World! (You will see this line every time server resources 
 onEvent('recipes', event => {
 	// Change recipes here
 
+event.remove({ output: 'rftoolsbuilder:builder' })
+event.remove({ output: 'naturesaura:offering_table' })
 event.remove({ output: 'mysticalagriculture:infusion_altar' })
 event.remove({ output: 'powah:dielectric_casing' })
 event.remove({ output: 'minecolonies:blockhutdeliveryman' })
